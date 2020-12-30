@@ -1,4 +1,4 @@
-### hey, it's-a me, onur <img width="26px"><img align=right src="https://pixabay.com/get/52e6dd464a52aa14f6d1867dda3536781537dce652527849_1920.jpg" width="230">
+### hey, it's-a me <img width="26px"><img align=right src="https://pixabay.com/get/52e6dd464a52aa14f6d1867dda3536781537dce652527849_1920.jpg" width="230">
 
 
 
