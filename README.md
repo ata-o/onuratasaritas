@@ -1,4 +1,4 @@
-#### "Ahh, you were at my side, all along... My true mentor... My guiding moonlight..." <img width="26px"><img align=right src="https://pixabay.com/get/52e6dd464a52aa14f6d1867dda3536781537dce652527849_1920.jpg" width="230">
+#### "Ahh, you were at my side, all along... My true mentor... My guiding moonlight..." <img width="26px"><img align=right src="light-bulb.png" width="230">
 
 
 
