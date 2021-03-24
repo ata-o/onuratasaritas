@@ -1,4 +1,4 @@
-#### "Ahh, you were at my side, all along... My true mentor... My guiding moonlight..." <img width="26px"><img align=right src="light-bulb.png" width="230">
+#### "Ahh, you were at my side, all along... My true mentor... My guiding moonlight..." <img width="26px"><img align=right src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cloyster.png" width="100">
 
 
 
