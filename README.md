@@ -5,9 +5,6 @@
 
 i'm interested computer graphics, emulation and virtual reality applications
 
-my web tech stack is django with vue
-
-currently working at [bites, defence & aerospace technologies](https://www.bites.com.tr/)
 
 <!--
 **onuratasaritas/onuratasaritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
