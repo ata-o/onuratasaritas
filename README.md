@@ -1,4 +1,4 @@
-#### "Ahh, you were at my side, all along... My true mentor... My guiding moonlight..." <img width="26px"><img align=right src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cloyster.png" width="100">
+#### "..an Aes Sedai would probably follow a man off a cliff, too, if only to explain to him -in detail- all the things he was doing incorrectly in the way he went about killing himself." <img width="26px"><img align=right src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/regular/cloyster.png" width="100">
 
 
 
